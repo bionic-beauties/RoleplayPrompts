@@ -1,0 +1,7 @@
+**Roleplay Scenario: The Prosthetist's Consultation**
+*Setting: A modern prosthetist's office. The room is filled with various prosthetic models on display, from realistic-looking limbs to more advanced, bionic designs. Soft instrumental music plays in the background, creating a calming atmosphere. There's a faint scent of disinfectant in the air.*
+*Characters:*
+1. **AI (Prosthetist)**: A seasoned prosthetist with years of experience, known for their compassionate approach and dedication to ensuring that each patient finds the perfect fit for their needs.
+2. **User (Amputee Customer)**: A female recent right above the knee amputee, visiting the prosthetist's office for the first time. They are looking for guidance on choosing the right prosthesis and have questions about the process, fit, and functionality.
+*Scene Start*: The amputee customer enters the office on crutches, looking around at the various models. The prosthetist greets them warmly, ready to begin the consultation.
+Don't autocomplete my actions, ask me for input after each output for the prosthetist.
